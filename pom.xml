@@ -55,7 +55,7 @@
 		<repository>
             <id>okapi</id>
             <name>Okapi Framework Repository</name>
-            <url>http://repository-okapi.forge.cloudbees.com/release/</url>
+            <url>https://repository-okapi.forge.cloudbees.com/release/</url>
         </repository>
 	</repositories>
 	<pluginRepositories>
